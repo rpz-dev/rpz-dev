@@ -11,7 +11,7 @@
   <img align="center" alt="rpz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rpz-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="rpz-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  
+  </div>
 
 <!---
 rpz-dev/rpz-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
