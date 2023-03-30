@@ -1,5 +1,3 @@
-  - Hello! I am Rodrigo xD.
-  - Actually, I'm currently studying a little bit of Flutter(dart), but I consider myself a JavaScript enthusiast.
  <div align="center">
   <a href="https://github.com/rpz-dev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rpz-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
